@@ -9,8 +9,6 @@ import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import ExperienceCard from '../Cards/ExperienceCard';
 import { experiences } from '../../data/constants';
-// import { collection, getDocs} from 'firebase/firestore';
-// import { db } from '../../firebase';
 
 const Container = styled.div`
     display: flex;
@@ -74,21 +72,6 @@ const TimelineSection = styled.div`
     gap: 12px;
 `;
 
-
-// // collection ref
-// const colRef = collection(db,'experiences');
-   
-// //get data
-// let experiences = []
-// getDocs(colRef).then((snapshot)=>{
-//     snapshot.docs.forEach((doc)=>{
-//       experiences.push({ ...doc.data(), id: doc.id})
-//     })
-
-//     // experiences.forEach(element => {
-//     //     console.log(experiences)      
-//     //     });
-//     })
 const index = () => {
     return (
         <Container id="experience">

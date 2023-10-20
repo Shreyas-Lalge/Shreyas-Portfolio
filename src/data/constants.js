@@ -7,7 +7,7 @@ export const Bio = {
     description:
     "Dedicated and adaptable individual with experience in achieving tangible results and cross-team collaboration. Proactive and excited to partner with like-minded individuals to achieve goals.",
     github: "https://github.com/Shreyas-Lalge",
-    resume:"https://drive.google.com/file/d/14_dMbFyvD0uMvIPZRXO3FbCBR0w5VBx9/view?usp=drive_link",
+    resume:"https://drive.google.com/file/d/1W3Aohi1Q5cNmmEI_EvdNITP3tjhV4gyS/view?usp=share_link",
     linkedin: "https://www.linkedin.com/in/shreyaslalge-716612188/",
   };
   
